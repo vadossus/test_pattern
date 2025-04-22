@@ -1,0 +1,14 @@
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\bin\Debug\net8.0\prototype_pattern.exe
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\bin\Debug\net8.0\prototype_pattern.deps.json
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\bin\Debug\net8.0\prototype_pattern.runtimeconfig.json
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\bin\Debug\net8.0\prototype_pattern.dll
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\bin\Debug\net8.0\prototype_pattern.pdb
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\prototype_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\prototype_pattern.AssemblyInfoInputs.cache
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\prototype_pattern.AssemblyInfo.cs
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\prototype_pattern.csproj.CoreCompileInputs.cache
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\prototype_pattern.dll
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\refint\prototype_pattern.dll
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\prototype_pattern.pdb
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\prototype_pattern.genruntimeconfig.cache
+C:\Users\rulev\source\repos\prototype_pattern\prototype_pattern\obj\Debug\net8.0\ref\prototype_pattern.dll
